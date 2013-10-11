@@ -6,5 +6,15 @@
         scripts: {
             src: ["subpartfile.js"]
         }
+    },
+
+    copy: {
+        scripts: {
+            src: ["suppartfiletocopy.js"]
+        }
+    },
+
+    build: {
+        default: ["copy:scripts"]
     }
 };

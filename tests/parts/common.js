@@ -27,6 +27,10 @@
                 ],
                 dest: options.output + "/libs.js"
             }
+        },
+
+        build: {
+            default: ["concat:styles", "concat:libs", "concat:scripts"]
         }
     }
 }
