@@ -26,5 +26,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/spatools/grunt-part-builder/issues"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
   }
 }

@@ -90,3 +90,7 @@ module.exports = function(options) {
 
 ## Release History
 * 0.1.0 Initial Release
+	* Build multiple parts
+	* Apply dependencies
+	* Create custom options to pass to parts
+	* Allow objects and function parts
