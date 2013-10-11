@@ -98,3 +98,6 @@ module.exports = function(options) {
 * 0.1.1 
 	* Fix issue in loader when loading many parts which have redondant dependencies
 	* Optimize builder execution time
+* 0.1.2
+	* Allow configurations to define task to be registered
+	* Optimize custom build support
