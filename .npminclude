@@ -1,4 +1,6 @@
-﻿lib/
+﻿package.json
+lib/builder.js
+lib/loader.js
+lib/merger.js
 LICENSE
 README.md
-package.json

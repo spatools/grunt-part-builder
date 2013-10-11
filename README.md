@@ -89,8 +89,12 @@ module.exports = function(options) {
 [grunt]: https://github.com/gruntjs/grunt
 
 ## Release History
-* 0.1.0 Initial Release
+* 0.1.0 
+	* Initial Release
 	* Build multiple parts
 	* Apply dependencies
 	* Create custom options to pass to parts
 	* Allow objects and function parts
+* 0.1.1 
+	* Fix issue in loader when loading many parts which have redondant dependencies
+	* Optimize builder execution time
