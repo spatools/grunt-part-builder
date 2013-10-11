@@ -1,0 +1,30 @@
+{
+  "name": "grunt-part-builder",
+  "version": "0.1.0",
+  "description": "Grunt part builder helps creating big Grunt configuration by merging many parts. it permits complex build workflow",
+  "main": "lib/builder.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spatools/grunt-part-builder"
+  },
+  "keywords": [
+    "grunt",
+    "gruntplugin",
+    "part",
+    "builder",
+    "conditional",
+    "partition",
+    "area"
+  ],
+  "author": "SPA Tools",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spatools/grunt-part-builder/issues"
+  }
+}
