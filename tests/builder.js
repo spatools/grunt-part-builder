@@ -16,8 +16,6 @@ module.exports.builder = {
         callback();
     },
     tearDown: function (callback) {
-        builder1.reset();
-        builder2.reset();
         builder1 = builder2 = null;
         callback();
     },

@@ -2,13 +2,6 @@
 var loader = require("../lib/loader");
 
 module.exports.loader = {
-    setUp: function(callback) {
-        callback();
-    },
-    tearDown: function(callback) {
-        loader.reset();
-        callback();
-    },
     load: function (test) {
         test.expect(6);
 
