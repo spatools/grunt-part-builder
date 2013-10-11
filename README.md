@@ -1,4 +1,4 @@
-﻿# grunt-part-builder 
+﻿# grunt-part-builder [![NPM version](https://badge.fury.io/js/grunt-part-builder.png)](http://badge.fury.io/js/grunt-part-builder)
 
 [Grunt][grunt] Part Builder - Merge multiple configuration parts, manage dependency, enable complex part building.
 
