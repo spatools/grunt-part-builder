@@ -101,3 +101,5 @@ module.exports = function(options) {
 * 0.1.2
 	* Allow configurations to define task to be registered
 	* Optimize custom build support
+* 0.1.3
+	* Allow options.defaultPart to be an array
